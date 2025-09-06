@@ -53,11 +53,25 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 
 ### Offline Robotic Data Generation Engine
 
+- **DreamGen**: DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](http://github.com/nvidia/GR00T-dreams)] [[Website](https://research.nvidia.com/labs/gear/dreamgen/)]
+- **RoboTransfer**: RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.23171)] [[Code](https://github.com/HorizonRobotics/RoboTransfer)] [[Website](https://horizonrobotics.github.io/robot_lab/robotransfer/)]
+- **EnerVerse-AC**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.09723)] [[Code](https://github.com/AgibotTech/EnerVerse-AC)] [[Website](https://annaj2178.github.io/EnerverseAC.github.io/)]
+
 ### Environment Substitute for Reinforcement Learning
 
+- **GenRL**: GenRL: Multimodal-foundation world models for generalization in embodied agents **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2406.18043)] [[Code](https://github.com/mazpie/genrl)] [[Website](https://mazpie.github.io/genrl/)]
+- **iVideoGPT**: iVideoGPT: Interactive VideoGPTs are Scalable World Models **`NeurIPS 2024`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/7dbb5bfab324e3b86af9bd0df15498dd-Paper-Conference.pdf)] [[Code](https://github.com/thuml/iVideoGPT)] [[Website](https://thuml.github.io/iVideoGPT/)]
+- **DreamerV3**: Dream to Control: Learning Behaviors by Latent Imagination. **`Nature 2025`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/danijar/dreamerv3)]
+
 ### Robotic Policy Evaluator
+- **WorldEval**: WorldEval: World Model as Real-World Robot Policies Evaluator. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2505.19017)] [[Code](https://github.com/liyaxuanliyaxuan/Worldeval)] [[Website](https://worldeval.github.io/)]
+- **EnerVerse-AC**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.09723)] [[Code](https://github.com/AgibotTech/EnerVerse-AC)] [[Website](https://annaj2178.github.io/EnerverseAC.github.io/)]
+- **RoboScape**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 
 ### Action Planner as Embodied Agents
+- **GPC**: Strengthening Generative Robot Policies through Predictive World Modeling **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC/)]
+- **VPP**: Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**`ICML 2025 Spotlight`** [[Paper](https://arxiv.org/pdf/2412.14803)] [[Code](https://github.com/roboterax/video-prediction-policy)] [[Website](https://video-prediction-policy.github.io/)]
+- **V-JEPA 2-AC**: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
 
 ## Benchmarks of Embodied World Models
 
@@ -68,7 +82,6 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 ### Evaluation Reliability towards Policy Model
 
 ### Data Scaling in Downstream Policy Model
-
 
 
 
