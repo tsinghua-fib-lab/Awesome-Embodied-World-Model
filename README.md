@@ -22,7 +22,28 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 
 
 ### 3D Reconstruction-enhanced Models
-
+- **spmem**: Video World Models with Long-term Spatial Memory. **`arXiv 2025`** [[Paper](hhttps://arxiv.org/pdf/2506.05284)] [[Project Page](https://spmem.github.io/)]
+- **Geodrive**: Geodrive: 3d geometry-informed driving world model with precise action control. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.22421v1)] [[Code](https://github.com/antonioo-c/GeoDrive)]
+- **Drivedreamer4d**: Drivedreamer4d: World models are effective data machines for 4d driving scene representation. **`CVPR2025`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Code](https://github.com/GigaAI-research/DriveDreamer4D)]
+- **Recondreamer**: Recondreamer: Crafting world models for driving scene reconstruction via online restoration. **`CVPR2025`** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_Recondreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.pdf)]  
+- **VGGT**: Vggt: Visual geometry grounded transformer. **`CVPR2025`** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Vggt_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)]  
+- **DeepVerse**: DeepVerse: 4D Autoregressive Video Generation as a World Model. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.01103)]  
+- **Geometry Forcing**: Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.07982)]  
+- **UniFuture**: Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)]  
+- **Aether**: Aether: Geometric-aware unified world modeling. **`ICCV 2025`** [[Paper](https://arxiv.org/abs/2503.18945)][[Code](https://github.com/InternRobotics/Aether)] 
+- **Geo4D**: Geo4d: Leveraging video generators for geometric 4d scene reconstruction. **` ICCV 2025 Highlight`** [[Paper](https://arxiv.org/abs/2504.07961)][[Code](https://github.com/jzr99/Geo4D)]
+- **PosePilot**: PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth. **`IEEE/RSJ IROS 2025`** [[Paper](https://arxiv.org/abs/2505.01729)]  
+- **UniScene**: Uniscene: Unified occupancy-centric driving scene generation. **`CVPR2025`** [[Paper](https://arxiv.org/abs/2412.05435)][[Code](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)]
+- **WonderFree**: WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.20590)]  
+- **GaussianWorld**: Gaussianworld: Gaussian world model for streaming 3d occupancy prediction. **`CVPR2025`** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zuo_GaussianWorld_Gaussian_World_Model_for_Streaming_3D_Occupancy_Prediction_CVPR_2025_paper.pdf)]  
+- **DriveWorld**: Driveworld: 4d pre-trained scene understanding via world models for autonomous driving. **`CVPR2024`** [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.pdf)]  
+- **Dist-4D**: Dist-4d: Disentangled spatiotemporal diffusion with metric depth for 4d driving scene generation. **`ICCV 2025`** [[Paper](https://arxiv.org/abs/2503.15208)][[Code](https://github.com/royalmelon0505/dist4d)]
+- **TesserAct**: TesserAct: learning 4D embodied world models. **`ICCV 2025`** [[Paper](https://arxiv.org/abs/2504.20995)][[Code](https://github.com/UMass-Embodied-AGI/TesserAct)]
+- **FlowDreamer**: FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.10075)] [[Project Page](https://sharinka0715.github.io/FlowDreamer/)]  
+- **Geometry-aware 4D Video Generation for Robot Manipulation**: Geometry-aware 4D Video Generation for Robot Manipulation. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.01099)] [[Code](https://github.com/lzylucy/4dgen)]  
+- **ORV**: ORV: 4D Occupancy-centric Robot Video Generation. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.03079)] [[Code](https://orangesodahub.github.io/ORV/)]  
+- **3D Persistent Embodied World Models**: Learning 3D Persistent Embodied World Models. **`arXiv 2025`** [[Paper](https://export.arxiv.org/abs/2505.05495)]  
+- **HunyuanWorld 1.0**: HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.21809)] [[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)] [[Project Page](https://3d.hunyuan.tencent.com/sceneTo3D)]
 ### Latent Space World Models
 - **PlaNet**: Learning Latent Dynamics for Planning from Pixels. **`ICML 2019`** [[Paper](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)] [[Code](https://github.com/google-research/planet)] [[Blog](https://planetrl.github.io/)]
 - **Dreamer**: Dream to Control: Learning Behaviors by Latent Imagination. **`ICLR 2020`** [[Paper](https://arxiv.org/pdf/1912.01603)] [[Code](https://github.com/google-research/dreamer)]
