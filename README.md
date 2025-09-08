@@ -52,7 +52,7 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 
 - **I-JEPA**: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture. **`ICCV 2023`** [[Paper](https://arxiv.org/pdf/2301.08243)] [[Code](https://github.com/facebookresearch/ijepa)]
 - **V-JEPA**: Revisiting Feature Prediction for Learning Visual Representations from Video. **`TMLR 2024`** [[Paper](https://arxiv.org/pdf/2404.08471)] [[Code](https://github.com/facebookresearch/jepa)]
-- **V-JEPA 2, V-JEPA 2-AC**: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
+- **V-JEPA 2, V-JEPA 2-AC**: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper]([https://www.nature.com/articles/s41586-025-08744-2](https://arxiv.org/pdf/2506.09985))] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
 
 - **TD-MPC**: Temporal Difference Learning for Model Predictive Control. **`ICML 2022`** [[Paper](https://arxiv.org/pdf/2203.04955)] [[Code](https://github.com/nicklashansen/tdmpc)] [[Website](https://www.nicklashansen.com/td-mpc/)]
 - **TD-MPC-offline**: Finetuning Offline World Models in the Real World. **`CoRL 2023 Oral`** [[Paper](https://arxiv.org/pdf/2310.16029)] [[Code](https://github.com/yunhaif/fowm)] [[Website](https://www.yunhaifeng.com/FOWM/)]
