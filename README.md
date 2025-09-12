@@ -101,7 +101,7 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 
 ### Action Planner as Embodied Agents
 - **GPC**: Strengthening Generative Robot Policies through Predictive World Modeling **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC/)]
-- **VPP**: Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**`ICML 2025 Spotlight`** [[Paper](https://arxiv.org/pdf/2412.14803)] [[Code](https://github.com/roboterax/video-prediction-policy)] [[Website](https://video-prediction-policy.github.io/)]
+- **VPP**: Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations **`ICML 2025 Spotlight`** [[Paper](https://arxiv.org/pdf/2412.14803)] [[Code](https://github.com/roboterax/video-prediction-policy)] [[Website](https://video-prediction-policy.github.io/)]
 - **V-JEPA 2-AC**: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
 
 ## Benchmarks of Embodied World Models
