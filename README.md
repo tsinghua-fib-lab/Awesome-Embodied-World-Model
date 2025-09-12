@@ -61,38 +61,33 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 ## Training Paradigm of Embodied World Models
 
 ### Instruction-conditioned Training
-
+- **Sora**: Sora: A review on background, technology, limitations, and opportunities of large vision models. **`arXiv 2024`** [[Paper](https://arxiv.org/pdf/2402.17177)] [[Code](https://github.com/lichao-sun/SoraReview)]
+- **RoboDreamer**: Robodreamer: Learning compositional world models for robot imagination. **`ICML 2024`** [[Paper](https://arxiv.org/pdf/2402.17177)] [[Code](https://github.com/rainbow979/robodreamer)] [[Website](https://robovideo.github.io)]
+- **Pandora**: Pandora: Towards general world model with natural language actions and video states. **`arXiv 2024`** [[Paper](https://arxiv.org/pdf/2406.09455?)] [[Code](https://github.com/maitrix-org/Pandora)] [[Website](https://world-model.maitrix.org)]
+- **Cosmos**: Cosmos world foundation model platform for physical ai. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2501.03575)] [[Code](https://github.com/nvidia-cosmos/cosmos-predict1)] [[Website](https://www.nvidia.com/en-us/ai/cosmos/)]
 ### Action-conditioned Training
-
+- **Vid2World**: Vid2World: Crafting Video Diffusion Models to Interactive World Models. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2501.03575)] [[Website](https://knightnemo.github.io/vid2world/)]
+- **UWM**: Cosmos world foundation model platform for physical ai. **`ICML 2025`** [[Paper](https://arxiv.org/pdf/2504.02792?)] [[Code](https://github.com/WEIRDLabUW/unified-world-model)] [[Website](https://weirdlabuw.github.io/uwm/)]
+- **Enverse-AC**: Enerverse-ac: Envisioning embodied environments with action condition. **`ICML 2025`** [[Paper](https://arxiv.org/pdf/2505.09723)] [[Code](https://github.com/AgibotTech/EnerVerse-AC)] [[Website](https://annaj2178.github.io/EnerverseAC.github.io/)]
+- **FLARE**: FLARE: Robot learning with implicit world modeling. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2505.15659?)] [[Website](https://research.nvidia.com/labs/gear/flare/)]
 ### Physics-informed Training
-
+- **RoboScape**: RoboScape: Physics-informed Embodied World Model. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
+- **TesserAct**: TesserAct: learning 4D embodied world models. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2504.20995)] [[Code](https://github.com/UMass-Embodied-AGI/TesserAct)] [[Website](https://tesseractworld.github.io)]
 ### Video-action Joint Training
-
+- **HMA**: Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2502.04296)] [[Code](https://github.com/liruiw/HMA)] [[Website](https://liruiw.github.io/hma/)]
+- **UVA**: Unified video action model. **`RSS 2025`** [[Paper](https://arxiv.org/pdf/2503.00200)] [[Code](https://github.com/ShuangLI59/unified_video_action)] [[Website](https://unified-video-action-model.github.io)]
+- **WorldVLA**: WorldVLA: Towards Autoregressive Action World Model. **`DAMO 2025`** [[Paper](https://arxiv.org/pdf/2506.21539?)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)] 
 ### RL-based Training
-
+- **RLVR-World**: RLVR-World: Training World Models with Reinforcement Learning **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2505.13934?)] [[Code](https://thuml.github.io/RLVR-World/)] [[Website](https://thuml.github.io/RLVR-World)]
 ## Applications of Embodied World Models 
 
 ### Offline Robotic Data Generation Engine
 
-- **DreamGen**: DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](http://github.com/nvidia/GR00T-dreams)] [[Website](https://research.nvidia.com/labs/gear/dreamgen/)]
-- **RoboTransfer**: RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.23171)] [[Code](https://github.com/HorizonRobotics/RoboTransfer)] [[Website](https://horizonrobotics.github.io/robot_lab/robotransfer/)]
-- **EnerVerse-AC**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.09723)] [[Code](https://github.com/AgibotTech/EnerVerse-AC)] [[Website](https://annaj2178.github.io/EnerverseAC.github.io/)]
-
 ### Environment Substitute for Reinforcement Learning
 
-- **GenRL**: GenRL: Multimodal-foundation world models for generalization in embodied agents **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2406.18043)] [[Code](https://github.com/mazpie/genrl)] [[Website](https://mazpie.github.io/genrl/)]
-- **iVideoGPT**: iVideoGPT: Interactive VideoGPTs are Scalable World Models **`NeurIPS 2024`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/7dbb5bfab324e3b86af9bd0df15498dd-Paper-Conference.pdf)] [[Code](https://github.com/thuml/iVideoGPT)] [[Website](https://thuml.github.io/iVideoGPT/)]
-- **DreamerV3**: Dream to Control: Learning Behaviors by Latent Imagination. **`Nature 2025`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/danijar/dreamerv3)]
-
 ### Robotic Policy Evaluator
-- **WorldEval**: WorldEval: World Model as Real-World Robot Policies Evaluator. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2505.19017)] [[Code](https://github.com/liyaxuanliyaxuan/Worldeval)] [[Website](https://worldeval.github.io/)]
-- **EnerVerse-AC**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.09723)] [[Code](https://github.com/AgibotTech/EnerVerse-AC)] [[Website](https://annaj2178.github.io/EnerverseAC.github.io/)]
-- **RoboScape**: EnerVerse-AC: Envisioning Embodied Environments with Action Condition **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 
 ### Action Planner as Embodied Agents
-- **GPC**: Strengthening Generative Robot Policies through Predictive World Modeling **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2502.00622)] [[Website](https://computationalrobotics.seas.harvard.edu/GPC/)]
-- **VPP**: Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations **`ICML 2025 Spotlight`** [[Paper](https://arxiv.org/pdf/2412.14803)] [[Code](https://github.com/roboterax/video-prediction-policy)] [[Website](https://video-prediction-policy.github.io/)]
-- **V-JEPA 2-AC**: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
 
 ## Benchmarks of Embodied World Models
 
@@ -103,6 +98,7 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 ### Evaluation Reliability towards Policy Model
 
 ### Data Scaling in Downstream Policy Model
+
 
 
 
