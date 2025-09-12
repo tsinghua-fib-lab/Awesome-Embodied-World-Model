@@ -22,7 +22,7 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 
 
 ### 3D Reconstruction-enhanced Models
-- **spmem**: Video World Models with Long-term Spatial Memory. **`arXiv 2025`** [[Paper](hhttps://arxiv.org/pdf/2506.05284)] [[Project Page](https://spmem.github.io/)]
+- **Spmem**: Video World Models with Long-term Spatial Memory. **`arXiv 2025`** [[Paper](hhttps://arxiv.org/pdf/2506.05284)] [[Project Page](https://spmem.github.io/)]
 - **Geodrive**: Geodrive: 3d geometry-informed driving world model with precise action control. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.22421v1)] [[Code](https://github.com/antonioo-c/GeoDrive)]
 - **Drivedreamer4d**: Drivedreamer4d: World models are effective data machines for 4d driving scene representation. **`CVPR2025`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Code](https://github.com/GigaAI-research/DriveDreamer4D)]
 - **Recondreamer**: Recondreamer: Crafting world models for driving scene reconstruction via online restoration. **`CVPR2025`** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_Recondreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.pdf)]  
