@@ -107,13 +107,32 @@ Awesome paper list and repos of the paper "A comprehensive survey of embodied wo
 ## Benchmarks of Embodied World Models
 
 ### Generated Data Quality
+- **VBench** : Comprehensive Benchmark Suite for Video Generative Models **`CVPR 2024 Highlight`** [[Paper]](https://arxiv.org/abs/2311.17982) [[Code]](https://github.com/Vchitect/VBench) [[Website]](https://vchitect.github.io/VBench-project/)
+- **T2V-CompBench**: A Comprehensive Benchmark for Compositional Text-to-video Generation **`CVPR 2025`** [[Paper]](https://arxiv.org/pdf/2407.14505) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench) [[Website]](https://t2v-compbench.github.io/)
+- **VBench-2.0**: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness **`arXiv 2025`** [[Paper]](https://arxiv.org/abs/2503.21755) [[Code]](https://github.com/Vchitect/VBench)
+- **VideoPhy**: Evaluating Physical Commonsense for Video Generation **`ICLR 2025 Poster`** [[Paper]](https://arxiv.org/abs/2406.03520) [[Code]](https://github.com/Hritikbansal/videophy)
+- **VideoPhy 2:** Challenging Action-Centric Physical Commonsense Evaluation of Video Generation **`arXiv 2025`** [[Paper]](http://arxiv.org/abs/2503.06800) [[Code]](https://github.com/Hritikbansal/videophy/tree/main/VIDEOPHY2) [[Website]](https://videophy2.github.io/)
+- **PhyGenBench**: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation **`ICML 2025`** [[Paper]](https://arxiv.org/abs/2410.05363#) [[Code]](https://github.com/OpenGVLab/PhyGenBench) [[Website]](https://phygenbench123.github.io/)
+- **WorldModelBench**: Judging Video Generation Models As World Models  **`arXiv 2025`** [[Paper]](https://arxiv.org/pdf/2502.20694) [[Code]](https://github.com/WorldModelBench-Team/WorldModelBench/tree/main?tab=readme-ov-file#evaluation) [[Website]](https://worldmodelbench-team.github.io/)
+- **EWMBench**: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models  **`arXiv 2025`** [[Paper]](https://arxiv.org/abs/2505.09694) [[Code]](https://github.com/AgibotTech/EWMBench)
 
 ### End-to-end Manipulation Evaluation
+- **DreamerV3**: Dream to Control: Learning Behaviors by Latent Imagination. **`Nature 2025`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[Code](https://github.com/danijar/dreamerv3)]
+- **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`Meta 2024`** [[Paper](https://arxiv.org/pdf/2506.09985)] [[Code](https://github.com/facebookresearch/vjepa2)] [[Website](https://ai.meta.com/vjepa/)] [[Blog](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)]
+- **WorldSimBench**: Towards Video Generation Models as World Simulators  **`ICML 2025`** [[Paper]](https://iranqin.github.io/WorldSimBench.github.io/assets/WorldSimBenchmark.pdf) [[Website]](https://iranqin.github.io/WorldSimBench.github.io/)
 
 ### Evaluation Reliability towards Policy Model
+- **EWM**: Evaluating Robot Policies in a World Model, **`arXiv 2025`** [[Paper]](https://arxiv.org/abs/2506.00613)
+- **WorldEval**: World Model as Real-World Robot Policies Evaluator. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2505.19017)] [[Code](https://github.com/liyaxuanliyaxuan/Worldeval)] [[Website](https://worldeval.github.io/)]
+- **RoboScape**: Physics-informed Embodied World Model. **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 
 ### Data Scaling in Downstream Policy Model
-
+- **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](http://github.com/nvidia/GR00T-dreams)] [[Website](https://research.nvidia.com/labs/gear/dreamgen/)]
+- **RoboTransfer**: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.23171)] [[Code](https://github.com/HorizonRobotics/RoboTransfer)] [[Website](https://horizonrobotics.github.io/robot_lab/robotransfer/)]
+- **GenSim**: Generating Robotic Simulation Tasks via Large Language Models  **`ICLR 2024 Spotlight`** [[Paper](https://arxiv.org/abs/2310.01361)] [[Code](https://github.com/liruiw/GenSim)]
+- **WorldGPT**: Empowering LLM as Multimodal World Model  **`MM 2024`** [[Paper](https://arxiv.org/abs/2404.18202)] [[Code](https://github.com/DCDmllm/WorldGPT)]
+- **Traj-LLM**: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models  **`ICLR 2025 Poster`** [[Paper](https://arxiv.org/abs/2405.04909)] [[Code](https://github.com/TJU-IDVLab/Traj-LLM)]
+- **RoboScape**: Physics-informed Embodied World Model  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 
 
 
