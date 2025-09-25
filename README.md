@@ -1,5 +1,5 @@
 # Awesome-Embodied-World-Model
-Awesome paper list and repos of the paper "A survey of embodied world models".
+Awesome paper list and repos of the paper [A survey of embodied world models](https://www.researchgate.net/publication/395713824_A_Survey_of_Embodied_World_Models).
 
 ## Architectures of Embodied World Models
 
