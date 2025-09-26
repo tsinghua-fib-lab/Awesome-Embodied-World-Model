@@ -134,5 +134,13 @@ Awesome paper list and repos of the paper [A survey of embodied world models](ht
 - **Traj-LLM**: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models  **`ICLR 2025 Poster`** [[Paper](https://arxiv.org/abs/2405.04909)] [[Code](https://github.com/TJU-IDVLab/Traj-LLM)]
 - **RoboScape**: Physics-informed Embodied World Model  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 
+## Citations
+Please consider citing our paper and staring this repo if you find it useful! Feel free to contact shangy21@mails.tsinghua.edu.cn or open an issue if you have any question.
 
+```bibtex
+@article{shangsurvey,
+  title={A Survey of Embodied World Models},
+  author={Shang, Yu and Tang, Yinzhou and Zhang, Xin and Wang, Shengyuan and Yan, Yuwei and Zhang, Honglin and Zheng, Zhiheng and Zhao, Jie and Feng, Jie and Gao, Chen and others}
+}
+```
 
