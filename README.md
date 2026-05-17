@@ -138,9 +138,11 @@ Awesome paper list and repos of the paper [A survey of embodied world models](ht
 Please consider citing our paper and staring this repo if you find it useful! Feel free to contact shangy21@mails.tsinghua.edu.cn or open an issue if you have any question.
 
 ```bibtex
-@article{shangsurvey,
+@article{shang2026survey,
   title={A Survey of Embodied World Models},
-  author={Shang, Yu and Tang, Yinzhou and Zhang, Xin and Wang, Shengyuan and Yan, Yuwei and Zhang, Honglin and Zheng, Zhiheng and Zhao, Jie and Feng, Jie and Gao, Chen and others}
+  author={Shang, Yu and Tang, Yinzhou and Zhang, Xin and Wang, Shengyuan and Yan, Yuwei and Zhang, Honglin and Zheng, Zhiheng and Zhao, Jie and Feng, Jie and Gao, Chen and others},
+  year={2026},
+  publisher={Preprints}
 }
 ```
 
